@@ -1,3 +1,5 @@
+# Personalized To-Do App (Frontend)
+
 This is a dynamic and responsive web application built with React that allows users to manage their daily tasks efficiently through a clean and intuitive interface. The application features user authentication to ensure that your to-do lists are private and personalized.
 
 ## ✨ Features
